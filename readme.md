@@ -28,6 +28,12 @@ Raise an Issue if you got your heart broken 💔
 - "You must be a goroutine, because you run through my mind concurrently."
 - "Let's commit to each other before we merge into someone else's branch."
 
+```shell
+$ go run main.go
+> You must be an API call, because I’m waiting for your response.
+```
+
+
 ## 📜 License
 
 MIT – Use these lines at your own risk 😉
