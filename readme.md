@@ -26,7 +26,7 @@ Raise an Issue if you got your heart broken 💔
 -  "Tab tak: git commit kar skills mein, push kar apne limits ko, aur merge kar success ko life mein "
 -   "Are you an interface? Because I’ve been trying to implement you all day."
 -   "You must be a goroutine, because you run through my mind concurrently."
--- "Let's commit to each other before we merge into someone else's branch."
+-     "Let's commit to each other before we merge into someone else's branch."
 
 ## 📜 License
 
